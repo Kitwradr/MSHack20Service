@@ -1,5 +1,0 @@
-.vscode/
-hack/
-package-lock.json
-Helpers/__pycache__/*
-Helpers/__pycache__/LocalInfo.cpython-36.pyc
