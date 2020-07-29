@@ -10,7 +10,7 @@ CORS(app)
 
 @app.route('/')
 def main_func():
-  return 'Hello Flask, on Azure App Service for Linux!'
+  return 'Hello Flask, on Azure App Service for Linux! 6:15 7/29'
 
 @app.route('/local_info',methods=['GET'])
 def get_local():
