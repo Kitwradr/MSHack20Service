@@ -1,0 +1,562 @@
+[
+	{
+		"positive": 3442,
+		"positiveIncrease": 92,
+		"totalTestsViral": 223664,
+		"recovered": 854,
+		"death": 22,
+		"deathIncrease": 0,
+		"state": "AK",
+		"name": "Alaska"
+	},
+	{
+		"positive": 83782,
+		"positiveIncrease": 1416,
+		"totalTestsViral": 666065,
+		"recovered": 32510,
+		"death": 1538,
+		"deathIncrease": 47,
+		"state": "AL",
+		"name": "Alabama"
+	},
+	{
+		"positive": 40968,
+		"positiveIncrease": 787,
+		"totalTestsViral": 495605,
+		"recovered": 33938,
+		"death": 434,
+		"deathIncrease": 6,
+		"state": "AR",
+		"name": "Arkansas"
+	},
+	{
+		"positive": 0,
+		"positiveIncrease": 0,
+		"totalTestsViral": null,
+		"recovered": null,
+		"death": 0,
+		"deathIncrease": 0,
+		"state": "AS",
+		"name": "American Samoa"
+	},
+	{
+		"positive": 168273,
+		"positiveIncrease": 2339,
+		"totalTestsViral": 901429,
+		"recovered": 21994,
+		"death": 3454,
+		"deathIncrease": 46,
+		"state": "AZ",
+		"name": "Arizona"
+	},
+	{
+		"positive": 475305,
+		"positiveIncrease": 8755,
+		"totalTestsViral": 7517466,
+		"recovered": null,
+		"death": 8715,
+		"deathIncrease": 197,
+		"state": "CA",
+		"name": "California"
+	},
+	{
+		"positive": 45314,
+		"positiveIncrease": 749,
+		"totalTestsViral": null,
+		"recovered": 5243,
+		"death": 1679,
+		"deathIncrease": 11,
+		"state": "CO",
+		"name": "Colorado"
+	},
+	{
+		"positive": 49540,
+		"positiveIncrease": 463,
+		"totalTestsViral": 763817,
+		"recovered": 8516,
+		"death": 4425,
+		"deathIncrease": 2,
+		"state": "CT",
+		"name": "Connecticut"
+	},
+	{
+		"positive": 11999,
+		"positiveIncrease": 54,
+		"totalTestsViral": null,
+		"recovered": 9723,
+		"death": 584,
+		"deathIncrease": 1,
+		"state": "DC",
+		"name": "District Of Columbia"
+	},
+	{
+		"positive": 14602,
+		"positiveIncrease": 126,
+		"totalTestsViral": null,
+		"recovered": 8108,
+		"death": 581,
+		"deathIncrease": 1,
+		"state": "DE",
+		"name": "Delaware"
+	},
+	{
+		"positive": 451423,
+		"positiveIncrease": 9446,
+		"totalTestsViral": 4557000,
+		"recovered": null,
+		"death": 6457,
+		"deathIncrease": 217,
+		"state": "FL",
+		"name": "Florida"
+	},
+	{
+		"positive": 178323,
+		"positiveIncrease": 3271,
+		"totalTestsViral": 1512464,
+		"recovered": null,
+		"death": 3642,
+		"deathIncrease": 79,
+		"state": "GA",
+		"name": "Georgia"
+	},
+	{
+		"positive": 351,
+		"positiveIncrease": 2,
+		"totalTestsViral": 21320,
+		"recovered": 297,
+		"death": 5,
+		"deathIncrease": 0,
+		"state": "GU",
+		"name": "Guam"
+	},
+	{
+		"positive": 1757,
+		"positiveIncrease": 46,
+		"totalTestsViral": 145404,
+		"recovered": 1205,
+		"death": 26,
+		"deathIncrease": 0,
+		"state": "HI",
+		"name": "Hawaii"
+	},
+	{
+		"positive": 43277,
+		"positiveIncrease": 500,
+		"totalTestsViral": null,
+		"recovered": 31246,
+		"death": 846,
+		"deathIncrease": 7,
+		"state": "IA",
+		"name": "Iowa"
+	},
+	{
+		"positive": 19222,
+		"positiveIncrease": 528,
+		"totalTestsViral": 171892,
+		"recovered": 6203,
+		"death": 160,
+		"deathIncrease": 8,
+		"state": "ID",
+		"name": "Idaho"
+	},
+	{
+		"positive": 176366,
+		"positiveIncrease": 1393,
+		"totalTestsViral": 2608652,
+		"recovered": null,
+		"death": 7654,
+		"deathIncrease": 16,
+		"state": "IL",
+		"name": "Illinois"
+	},
+	{
+		"positive": 64299,
+		"positiveIncrease": 621,
+		"totalTestsViral": null,
+		"recovered": 45058,
+		"death": 2932,
+		"deathIncrease": 8,
+		"state": "IN",
+		"name": "Indiana"
+	},
+	{
+		"positive": 26870,
+		"positiveIncrease": 698,
+		"totalTestsViral": null,
+		"recovered": 1149,
+		"death": 349,
+		"deathIncrease": 14,
+		"state": "KS",
+		"name": "Kansas"
+	},
+	{
+		"positive": 28727,
+		"positiveIncrease": 601,
+		"totalTestsViral": null,
+		"recovered": 7495,
+		"death": 724,
+		"deathIncrease": 5,
+		"state": "KY",
+		"name": "Kentucky"
+	},
+	{
+		"positive": 112773,
+		"positiveIncrease": 1735,
+		"totalTestsViral": null,
+		"recovered": 74246,
+		"death": 3883,
+		"deathIncrease": 71,
+		"state": "LA",
+		"name": "Louisiana"
+	},
+	{
+		"positive": 116182,
+		"positiveIncrease": 0,
+		"totalTestsViral": 1468395,
+		"recovered": 96452,
+		"death": 8551,
+		"deathIncrease": 0,
+		"state": "MA",
+		"name": "Massachusetts"
+	},
+	{
+		"positive": 86285,
+		"positiveIncrease": 761,
+		"totalTestsViral": 1160443,
+		"recovered": 5592,
+		"death": 3478,
+		"deathIncrease": 20,
+		"state": "MD",
+		"name": "Maryland"
+	},
+	{
+		"positive": 3866,
+		"positiveIncrease": 28,
+		"totalTestsViral": 161668,
+		"recovered": 3336,
+		"death": 121,
+		"deathIncrease": 0,
+		"state": "ME",
+		"name": "Maine"
+	},
+	{
+		"positive": 88974,
+		"positiveIncrease": 1016,
+		"totalTestsViral": 1819805,
+		"recovered": 57502,
+		"death": 6422,
+		"deathIncrease": 1,
+		"state": "MI",
+		"name": "Michigan"
+	},
+	{
+		"positive": 52947,
+		"positiveIncrease": 666,
+		"totalTestsViral": 993091,
+		"recovered": 46636,
+		"death": 1629,
+		"deathIncrease": 9,
+		"state": "MN",
+		"name": "Minnesota"
+	},
+	{
+		"positive": 43772,
+		"positiveIncrease": 1671,
+		"totalTestsViral": 856436,
+		"recovered": null,
+		"death": 1220,
+		"deathIncrease": 7,
+		"state": "MO",
+		"name": "Missouri"
+	},
+	{
+		"positive": 40,
+		"positiveIncrease": 0,
+		"totalTestsViral": 12745,
+		"recovered": 29,
+		"death": 2,
+		"deathIncrease": 0,
+		"state": "MP",
+		"name": "Northern Mariana Islands"
+	},
+	{
+		"positive": 55804,
+		"positiveIncrease": 1505,
+		"totalTestsViral": 442546,
+		"recovered": 35071,
+		"death": 1563,
+		"deathIncrease": 20,
+		"state": "MS",
+		"name": "Mississippi"
+	},
+	{
+		"positive": 3676,
+		"positiveIncrease": 201,
+		"totalTestsViral": null,
+		"recovered": 2212,
+		"death": 54,
+		"deathIncrease": 3,
+		"state": "MT",
+		"name": "Montana"
+	},
+	{
+		"positive": 117850,
+		"positiveIncrease": 1763,
+		"totalTestsViral": null,
+		"recovered": 92302,
+		"death": 1865,
+		"deathIncrease": 45,
+		"state": "NC",
+		"name": "North Carolina"
+	},
+	{
+		"positive": 6227,
+		"positiveIncrease": 86,
+		"totalTestsViral": 300971,
+		"recovered": 5087,
+		"death": 92,
+		"deathIncrease": 0,
+		"state": "ND",
+		"name": "North Dakota"
+	},
+	{
+		"positive": 25157,
+		"positiveIncrease": 258,
+		"totalTestsViral": null,
+		"recovered": 18702,
+		"death": 321,
+		"deathIncrease": 4,
+		"state": "NE",
+		"name": "Nebraska"
+	},
+	{
+		"positive": 6500,
+		"positiveIncrease": 0,
+		"totalTestsViral": null,
+		"recovered": 5688,
+		"death": 409,
+		"deathIncrease": 0,
+		"state": "NH",
+		"name": "New Hampshire"
+	},
+	{
+		"positive": 180766,
+		"positiveIncrease": 471,
+		"totalTestsViral": null,
+		"recovered": 32365,
+		"death": 15798,
+		"deathIncrease": -27,
+		"state": "NJ",
+		"name": "New Jersey"
+	},
+	{
+		"positive": 19791,
+		"positiveIncrease": 289,
+		"totalTestsViral": null,
+		"recovered": 7657,
+		"death": 626,
+		"deathIncrease": 7,
+		"state": "NM",
+		"name": "New Mexico"
+	},
+	{
+		"positive": 45806,
+		"positiveIncrease": 870,
+		"totalTestsViral": 596795,
+		"recovered": 1061,
+		"death": 780,
+		"deathIncrease": 21,
+		"state": "NV",
+		"name": "Nevada"
+	},
+	{
+		"positive": 413593,
+		"positiveIncrease": 715,
+		"totalTestsViral": null,
+		"recovered": 72900,
+		"death": 25132,
+		"deathIncrease": 6,
+		"state": "NY",
+		"name": "New York"
+	},
+	{
+		"positive": 87893,
+		"positiveIncrease": 1396,
+		"totalTestsViral": null,
+		"recovered": 62695,
+		"death": 3422,
+		"deathIncrease": 40,
+		"state": "OH",
+		"name": "Ohio"
+	},
+	{
+		"positive": 34623,
+		"positiveIncrease": 848,
+		"totalTestsViral": 613202,
+		"recovered": 27386,
+		"death": 523,
+		"deathIncrease": 14,
+		"state": "OK",
+		"name": "Oklahoma"
+	},
+	{
+		"positive": 17721,
+		"positiveIncrease": 305,
+		"totalTestsViral": null,
+		"recovered": 3736,
+		"death": 311,
+		"deathIncrease": 8,
+		"state": "OR",
+		"name": "Oregon"
+	},
+	{
+		"positive": 110218,
+		"positiveIncrease": 834,
+		"totalTestsViral": null,
+		"recovered": 82663,
+		"death": 7162,
+		"deathIncrease": 16,
+		"state": "PA",
+		"name": "Pennsylvania"
+	},
+	{
+		"positive": 16061,
+		"positiveIncrease": 221,
+		"totalTestsViral": 310546,
+		"recovered": null,
+		"death": 211,
+		"deathIncrease": 2,
+		"state": "PR",
+		"name": "Puerto Rico"
+	},
+	{
+		"positive": 18800,
+		"positiveIncrease": 75,
+		"totalTestsViral": 356186,
+		"recovered": 1810,
+		"death": 1007,
+		"deathIncrease": 2,
+		"state": "RI",
+		"name": "Rhode Island"
+	},
+	{
+		"positive": 85846,
+		"positiveIncrease": 1737,
+		"totalTestsViral": 680567,
+		"recovered": 32859,
+		"death": 1615,
+		"deathIncrease": 50,
+		"state": "SC",
+		"name": "South Carolina"
+	},
+	{
+		"positive": 8641,
+		"positiveIncrease": 149,
+		"totalTestsViral": null,
+		"recovered": 7609,
+		"death": 129,
+		"deathIncrease": 6,
+		"state": "SD",
+		"name": "South Dakota"
+	},
+	{
+		"positive": 100822,
+		"positiveIncrease": 4333,
+		"totalTestsViral": 1455120,
+		"recovered": 62129,
+		"death": 1020,
+		"deathIncrease": 42,
+		"state": "TN",
+		"name": "Tennessee"
+	},
+	{
+		"positive": 403307,
+		"positiveIncrease": 9042,
+		"totalTestsViral": 3539368,
+		"recovered": 251346,
+		"death": 6190,
+		"deathIncrease": 313,
+		"state": "TX",
+		"name": "Texas"
+	},
+	{
+		"positive": 39194,
+		"positiveIncrease": 339,
+		"totalTestsViral": 616512,
+		"recovered": 26643,
+		"death": 292,
+		"deathIncrease": 6,
+		"state": "UT",
+		"name": "Utah"
+	},
+	{
+		"positive": 87993,
+		"positiveIncrease": 999,
+		"totalTestsViral": 1073463,
+		"recovered": 11650,
+		"death": 2125,
+		"deathIncrease": 30,
+		"state": "VA",
+		"name": "Virginia"
+	},
+	{
+		"positive": 385,
+		"positiveIncrease": 10,
+		"totalTestsViral": null,
+		"recovered": 296,
+		"death": 8,
+		"deathIncrease": 1,
+		"state": "VI",
+		"name": "US Virgin Islands"
+	},
+	{
+		"positive": 1406,
+		"positiveIncrease": 1,
+		"totalTestsViral": null,
+		"recovered": 1199,
+		"death": 56,
+		"deathIncrease": 0,
+		"state": "VT",
+		"name": "Vermont"
+	},
+	{
+		"positive": 54205,
+		"positiveIncrease": 884,
+		"totalTestsViral": null,
+		"recovered": null,
+		"death": 1548,
+		"deathIncrease": 30,
+		"state": "WA",
+		"name": "Washington"
+	},
+	{
+		"positive": 54988,
+		"positiveIncrease": 924,
+		"totalTestsViral": null,
+		"recovered": 40416,
+		"death": 918,
+		"deathIncrease": 5,
+		"state": "WI",
+		"name": "Wisconsin"
+	},
+	{
+		"positive": 6326,
+		"positiveIncrease": 153,
+		"totalTestsViral": null,
+		"recovered": 4589,
+		"death": 112,
+		"deathIncrease": 1,
+		"state": "WV",
+		"name": "West Virginia"
+	},
+	{
+		"positive": 2628,
+		"positiveIncrease": 39,
+		"totalTestsViral": 73724,
+		"recovered": 2022,
+		"death": 26,
+		"deathIncrease": 0,
+		"state": "WY",
+		"name": "Wyoming"
+	}
+]
