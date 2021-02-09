@@ -5,6 +5,7 @@ import os
 
 from Helpers.LocalInfo import getLocalInfo
 from Helpers.USstates import getUS
+from Helpers.SkillExtractor import extract_skills
 
 app = Flask(__name__)
 CORS(app)
@@ -30,6 +31,13 @@ def get_local():
 @app.route('/covid_us', methods=['GET'])
 def get_covid_us():
 	return getUS()
+
+@app.route('/hackhr/get_skills', methods=['GET'])
+def get_skills():
+    body = request.json
+    string = body['feedback']
+    return extract_skills(string)
+
 	
 
 if __name__ == '__main__':
