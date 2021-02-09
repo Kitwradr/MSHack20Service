@@ -1,3 +1,4 @@
+import datetime
 from flask import Flask, request
 from flask_cors import CORS
 import json
@@ -13,7 +14,7 @@ CORS(app)
 
 @app.route('/')
 def main_func():
-    return 'Hello Flask, on Azure App Service for Linux! 6:15 7/29'
+    return 'Hello Flask, on Azure App Service for Linux! '+ str(datetime.datetime.now())
 
 
 @app.route('/local_info', methods=['GET'])
