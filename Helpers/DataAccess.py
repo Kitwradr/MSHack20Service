@@ -1,9 +1,31 @@
-import pymongo
+from azure.cosmosdb.table.models import Entity, TablePermissions
+from azure.cosmosdb.table.sharedaccesssignature import (
+    TableSharedAccessSignature,
+)
+from azure.cosmosdb.table.tableservice import (
+    TableService,
+)
 
-uri = "mongodb://hack20data:lwTPSf8XHOd0excaYKTt8mC4xAj9YS8aZ6wpdzC6gf256lHfNYG4wD8klVCxbsJy9a8khTYCTJfnqoqPu9yj0Q==@hack20data.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@hack20data@"
-client = pymongo.MongoClient(uri)
+from datetime import datetime, timedelta
+import json
+import uuid
 
+account_name='hackhr'
+account_key = 'LxVyv4khX6NsL+67nsghixU9fK/IsTOjW1l27KZ0eJQeRZFKT5Ew/HwMBZcUXPQV24gGJxOnVIS4sBTsA5/VIQ=='
+table_service = TableService(account_name=account_name,account_key=account_key)
+table_name = "skillstore"
 
-def top_picks(nearby_places):
+def store_feedback_skills(job_id,hm_id,cand_id,skills_scores,recommendation,org):
+    try:
+        task = Entity()
+        task.PartitionKey = str(uuid.uuid4())
+        task.HmId = hm_id
+        task.RowKey = str(cand_id)
+        now = datetime.now()
+        task.LastUpdated = str(now)
+        task.SkillScores = json.dumps(skills_scores)
+        task.JobId = str(job_id)
+        table_service.insert_or_replace_entity(table_name, task)
+    except:
+        raise
 
-    return
