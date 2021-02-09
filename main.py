@@ -35,8 +35,8 @@ def get_covid_us():
 @app.route('/hackhr/get_skills', methods=['GET'])
 def get_skills():
     body = request.json
-    string = body['feedback']
-    return extract_skills(string)
+    feedbact_str = body['feedback']
+    return extract_skills(feedbact_str)
 
 	
 
