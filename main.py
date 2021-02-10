@@ -34,7 +34,7 @@ def get_local():
 def get_covid_us():
 	return getUS()
 
-@app.route('/hackhr/get_skills', methods=['GET'])
+@app.route('/hackhr/get_skills', methods=['POST'])
 def get_skills():
     body = request.json
     feedbact_str = body['feedback']
@@ -57,8 +57,13 @@ def store_data():
         
 
 
-# @app.route('/hackhr/get_data', methods=['GET'])
-# def get_data():
+@app.route('/hackhr/get_data', methods=['GET'])
+def get_data():
+    body = request.json
+    hm_id = body["hm_id"]
+    org = body["org"]
+    result = body["Result"]
+
 
 
 	

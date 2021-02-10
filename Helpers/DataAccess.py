@@ -29,3 +29,8 @@ def store_feedback_skills(job_id,hm_id,cand_id,skills_scores,recommendation,org)
     except:
         raise
 
+# def get_compute_data(org,result,hm_id):
+#     if org and result and hm_id:
+#         query = "HmId eq {hm_id} and result eq {result} and org eq {org}"
+#         query.format(hm_id= hm_id)
+
