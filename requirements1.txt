@@ -157,7 +157,7 @@ thinc==7.0.8
 tika==1.23.1
 tqdm==4.32.2
 typed-ast==1.4.1
-urllib3==1.25.3
+urllib3==1.26.5
 virtualenv==20.0.28
 waitress==1.4.3
 wasabi==0.2.2
